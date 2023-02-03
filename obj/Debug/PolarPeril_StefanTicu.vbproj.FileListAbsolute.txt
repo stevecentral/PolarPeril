@@ -1,0 +1,59 @@
+C:\Users\RealProgramming4Kids\AppData\Local\Temporary Projects\PoralPeril_StefanTicu\bin\Debug\PoralPeril_StefanTicu.exe.config
+C:\Users\RealProgramming4Kids\AppData\Local\Temporary Projects\PoralPeril_StefanTicu\bin\Debug\PoralPeril_StefanTicu.exe
+C:\Users\RealProgramming4Kids\AppData\Local\Temporary Projects\PoralPeril_StefanTicu\bin\Debug\PoralPeril_StefanTicu.pdb
+C:\Users\RealProgramming4Kids\AppData\Local\Temporary Projects\PoralPeril_StefanTicu\bin\Debug\PoralPeril_StefanTicu.xml
+C:\Users\RealProgramming4Kids\AppData\Local\Temporary Projects\PoralPeril_StefanTicu\obj\Debug\PoralPeril_StefanTicu.mainForm.resources
+C:\Users\RealProgramming4Kids\AppData\Local\Temporary Projects\PoralPeril_StefanTicu\obj\Debug\PoralPeril_StefanTicu.Resources.resources
+C:\Users\RealProgramming4Kids\AppData\Local\Temporary Projects\PoralPeril_StefanTicu\obj\Debug\PolarPeril_StefanTicu.vbproj.GenerateResource.Cache
+C:\Users\RealProgramming4Kids\AppData\Local\Temporary Projects\PoralPeril_StefanTicu\obj\Debug\PoralPeril_StefanTicu.exe
+C:\Users\RealProgramming4Kids\AppData\Local\Temporary Projects\PoralPeril_StefanTicu\obj\Debug\PoralPeril_StefanTicu.xml
+C:\Users\RealProgramming4Kids\AppData\Local\Temporary Projects\PoralPeril_StefanTicu\obj\Debug\PoralPeril_StefanTicu.pdb
+C:\Users\RealProgramming4Kids\Desktop\PoralPeril_StefanTicu\bin\Debug\PoralPeril_StefanTicu.exe.config
+C:\Users\RealProgramming4Kids\Desktop\PoralPeril_StefanTicu\obj\Debug\PoralPeril_StefanTicu.exe
+C:\Users\RealProgramming4Kids\Desktop\PoralPeril_StefanTicu\obj\Debug\PoralPeril_StefanTicu.xml
+C:\Users\RealProgramming4Kids\Desktop\PoralPeril_StefanTicu\obj\Debug\PoralPeril_StefanTicu.pdb
+C:\Users\RealProgramming4Kids\Desktop\PoralPeril_StefanTicu\bin\Debug\PoralPeril_StefanTicu.exe
+C:\Users\RealProgramming4Kids\Desktop\PoralPeril_StefanTicu\bin\Debug\PoralPeril_StefanTicu.pdb
+C:\Users\RealProgramming4Kids\Desktop\PoralPeril_StefanTicu\bin\Debug\PoralPeril_StefanTicu.xml
+C:\Users\RealProgramming4Kids\Desktop\PoralPeril_StefanTicu\obj\Debug\PoralPeril_StefanTicu.mainForm.resources
+C:\Users\RealProgramming4Kids\Desktop\PoralPeril_StefanTicu\obj\Debug\PoralPeril_StefanTicu.Resources.resources
+C:\Users\RealProgramming4Kids\Desktop\PoralPeril_StefanTicu\obj\Debug\PolarPeril_StefanTicu.vbproj.GenerateResource.Cache
+C:\Users\RealProgramming4Kids\Desktop\PolarPeril_StefanTicu\bin\Debug\PoralPeril_StefanTicu.exe.config
+C:\Users\RealProgramming4Kids\Desktop\PolarPeril_StefanTicu\obj\Debug\PoralPeril_StefanTicu.exe
+C:\Users\RealProgramming4Kids\Desktop\PolarPeril_StefanTicu\obj\Debug\PoralPeril_StefanTicu.xml
+C:\Users\RealProgramming4Kids\Desktop\PolarPeril_StefanTicu\obj\Debug\PoralPeril_StefanTicu.pdb
+C:\Users\RealProgramming4Kids\Desktop\PolarPeril_StefanTicu\bin\Debug\PoralPeril_StefanTicu.exe
+C:\Users\RealProgramming4Kids\Desktop\PolarPeril_StefanTicu\bin\Debug\PoralPeril_StefanTicu.pdb
+C:\Users\RealProgramming4Kids\Desktop\PolarPeril_StefanTicu\bin\Debug\PoralPeril_StefanTicu.xml
+C:\Users\RealProgramming4Kids\Desktop\PolarPeril_StefanTicu\obj\Debug\PoralPeril_StefanTicu.mainForm.resources
+C:\Users\RealProgramming4Kids\Desktop\PolarPeril_StefanTicu\obj\Debug\PoralPeril_StefanTicu.Resources.resources
+C:\Users\RealProgramming4Kids\Desktop\PolarPeril_StefanTicu\obj\Debug\PolarPeril_StefanTicu.vbproj.GenerateResource.Cache
+C:\Users\RealProgramming4Kids\Desktop\PolarPeril_StefanTicu\obj\Debug\PoralPeril_StefanTicu.uDIE.resources
+C:\Users\RealProgramming4Kids\Desktop\PolarPeril_StefanTicu\obj\Debug\PoralPeril_StefanTicu.Victory.resources
+C:\Users\RealProgramming4Kids\Desktop\PolarPeril_StefanTicu\obj\Debug\PoralPeril_StefanTicu.gameover.resources
+D:\PolarPeril_StefanTicu111\bin\Debug\PoralPeril_StefanTicu.exe.config
+D:\PolarPeril_StefanTicu111\obj\Debug\PoralPeril_StefanTicu.exe
+D:\PolarPeril_StefanTicu111\obj\Debug\PoralPeril_StefanTicu.xml
+D:\PolarPeril_StefanTicu111\obj\Debug\PoralPeril_StefanTicu.pdb
+D:\PolarPeril_StefanTicu111\bin\Debug\PoralPeril_StefanTicu.exe
+D:\PolarPeril_StefanTicu111\obj\Debug\PoralPeril_StefanTicu.mainForm.resources
+D:\PolarPeril_StefanTicu111\obj\Debug\PoralPeril_StefanTicu.gameover.resources
+D:\PolarPeril_StefanTicu111\obj\Debug\PoralPeril_StefanTicu.Resources.resources
+D:\PolarPeril_StefanTicu111\obj\Debug\PoralPeril_StefanTicu.uDIE.resources
+D:\PolarPeril_StefanTicu111\obj\Debug\PoralPeril_StefanTicu.Victory.resources
+D:\PolarPeril_StefanTicu111\obj\Debug\PolarPeril_StefanTicu.vbproj.GenerateResource.Cache
+F:\Stefan\PolarPeril_StefanTicu111\bin\Debug\PoralPeril_StefanTicu.exe.config
+F:\Stefan\PolarPeril_StefanTicu111\bin\Debug\PoralPeril_StefanTicu.exe
+F:\Stefan\PolarPeril_StefanTicu111\bin\Debug\PoralPeril_StefanTicu.pdb
+F:\Stefan\PolarPeril_StefanTicu111\bin\Debug\PoralPeril_StefanTicu.xml
+F:\Stefan\PolarPeril_StefanTicu111\obj\Debug\PolarPeril_StefanTicu.vbprojAssemblyReference.cache
+F:\Stefan\PolarPeril_StefanTicu111\obj\Debug\PoralPeril_StefanTicu.mainForm.resources
+F:\Stefan\PolarPeril_StefanTicu111\obj\Debug\PoralPeril_StefanTicu.gameover.resources
+F:\Stefan\PolarPeril_StefanTicu111\obj\Debug\PoralPeril_StefanTicu.Resources.resources
+F:\Stefan\PolarPeril_StefanTicu111\obj\Debug\PoralPeril_StefanTicu.uDIE.resources
+F:\Stefan\PolarPeril_StefanTicu111\obj\Debug\PoralPeril_StefanTicu.Victory.resources
+F:\Stefan\PolarPeril_StefanTicu111\obj\Debug\PolarPeril_StefanTicu.vbproj.GenerateResource.cache
+F:\Stefan\PolarPeril_StefanTicu111\obj\Debug\PolarPeril_StefanTicu.vbproj.CoreCompileInputs.cache
+F:\Stefan\PolarPeril_StefanTicu111\obj\Debug\PoralPeril_StefanTicu.exe
+F:\Stefan\PolarPeril_StefanTicu111\obj\Debug\PoralPeril_StefanTicu.xml
+F:\Stefan\PolarPeril_StefanTicu111\obj\Debug\PoralPeril_StefanTicu.pdb
